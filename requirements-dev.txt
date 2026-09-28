@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=8,<10
+PyInstaller>=6.12,<7
+pypdf>=5,<7
